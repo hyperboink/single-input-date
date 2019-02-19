@@ -9,3 +9,9 @@ $('.single-input').singleInputDate({
 	}
 });
 ```
+
+```html
+<input type="text" class="single-input"/>
+```
+
+##Enjoy!
